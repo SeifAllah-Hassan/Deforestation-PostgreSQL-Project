@@ -1,7 +1,7 @@
 # Deforestation  -SQL Project -
 
 # Data source :
-there are a three tables CSV (land_area , forest_area , Regions ) 
+There are a three tables CSV (land_area , forest_area , Regions ) 
 
 # Characteristics:
 
