@@ -16,7 +16,7 @@ Drawing Schema using the  program drew the Schema and made a relation between th
 # TableConvert 
 Website Helps me to convert the three-file CSV to PostgreSQL files to move on with the process of the analysis on PostgreSQL. 
 # Neon Console
-Uses this site to do all analysis process coding From DDL, DML, and DQL. 
+Use this site to do all analysis process coding From DDL, DML, and DQL. 
 # Create view
 Create a view of the three tables to make it easy for me to answer the Analysis Questions 
 # Microsoft Excel  used for Visualization and make charts .   
